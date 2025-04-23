@@ -1,6 +1,3 @@
-Here's the updated code without the auto chat feature:
-
-
 const cron = require('node-cron');
 const { OnChat } = require('chatbox-utility');
 
