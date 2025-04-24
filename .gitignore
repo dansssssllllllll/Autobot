@@ -1,0 +1,8 @@
+generated-icon.png
+node_modules
+.local
+.cache
+.replit
+replit.nix
+.upm
+data
